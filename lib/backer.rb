@@ -7,4 +7,3 @@ class Backer
   end
 
 end
-
